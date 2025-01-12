@@ -25,7 +25,7 @@ A computer capable of running Unity projects
 
 Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/endless-runner-3d.git
+git clone https://github.com/viveknile/Endless-Runner.git
 
 Open the project in Unity:
 
